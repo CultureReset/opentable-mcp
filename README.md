@@ -1,3 +1,14 @@
+> **CultureReset fork of [chrischall/opentable-mcp](https://github.com/chrischall/opentable-mcp).** OpenTable MCP server for Claude — search restaurants, book tables, manage reservations, favorites, and notify.
+>
+> - **Why it is here:** Saved as a reference while building NODE's agents, memory and tools.
+> - **Does anything run from it:** No.
+> - **Changes:** The default branch has no CultureReset commits; it is upstream as of the last sync.
+> - **License:** MIT, from upstream. For updates and issues, use [upstream](https://github.com/chrischall/opentable-mcp).
+>
+> The upstream README follows unchanged.
+
+---
+
 # opentable-mcp
 
 [![CI](https://github.com/chrischall/opentable-mcp/actions/workflows/ci.yml/badge.svg)](https://github.com/chrischall/opentable-mcp/actions/workflows/ci.yml)
